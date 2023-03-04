@@ -22,7 +22,7 @@
 .section-1-bg{
     background-image: url(/images/h1_hero_bg.jpg);
     height: 100%;
-    background-position: ;
+    /* background-position: ; */
     background-size: cover;
 
 }
